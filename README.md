@@ -2,7 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Bright%20Data-FF6B35?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-0078D4?style=for-the-badge)
 
 ---
