@@ -237,9 +237,7 @@ t20-cricket-analytics/
 ## 🙌 Acknowledgements
 
 - **Data Source:** [ESPNcricinfo](https://www.espncricinfo.com/)
-- **Project Guided by:** Tony Sharma (Senior Data Analyst & Cricket SME)
 - **Scraping Infrastructure:** [Bright Data](https://brightdata.com/)
-- **Learning Platform:** [Codebasics.io](https://codebasics.io/)
 
 ---
 
@@ -247,5 +245,5 @@ t20-cricket-analytics/
 
 If you found this project interesting, feel free to connect or raise an issue!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vm62)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
