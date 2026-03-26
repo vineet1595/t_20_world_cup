@@ -13,7 +13,7 @@ Cricket is as much a game of strategy as it is of skill. With thousands of playe
 
 This project tackles a hypothetical but analytically rigorous challenge:
 
-> **"If Earth had to field its best-ever T20 XI against an alien team, which 11 players from the T20 World Cup 2022 would you pick — and can you back it up with data?"**
+> **"If Earth had to field its best-ever T20 XI, which 11 players from the T20 World Cup 2022 would you pick — and can you back it up with data?"**
 
 ### 🎯 Team Goals
 The selected team must be capable of:
@@ -237,9 +237,7 @@ t20-cricket-analytics/
 ## 🙌 Acknowledgements
 
 - **Data Source:** [ESPNcricinfo](https://www.espncricinfo.com/)
-- **Project Guided by:** Tony Sharma (Senior Data Analyst & Cricket SME)
 - **Scraping Infrastructure:** [Bright Data](https://brightdata.com/)
-- **Learning Platform:** [Codebasics.io](https://codebasics.io/)
 
 ---
 
