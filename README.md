@@ -214,7 +214,7 @@ t20-cricket-analytics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/t20-cricket-analytics.git
+   git clone https://github.com/vineet1595/t_20_world_cup.git
    cd t20-cricket-analytics
    ```
 
@@ -225,11 +225,11 @@ t20-cricket-analytics/
 
 3. **Run the data transformation notebook**
    ```bash
-   jupyter notebook notebooks/data_transformation.ipynb
+   jupyter notebook notebooks/t_20 Data Clening and Pre processing.ipynb
    ```
 
 4. **Open Power BI dashboard**
-   - Open `power_bi/cricket_dashboard.pbix` in Power BI Desktop
+   - Open `power_bi/t20_world_cup_dashboard.pbix` in Power BI Desktop
    - Refresh the data source to point to your local CSV files
 
 ---
