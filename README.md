@@ -185,28 +185,6 @@ Key steps performed:
 └── Data Modeling    → Power Query, DAX, Star Schema
 ```
 
----
-
-## 📁 Repository Structure
-
-```
-t20-cricket-analytics/
-│
-├── data/
-│   ├── raw/                  # Scraped JSON files
-│   └── processed/            # Cleaned CSV files
-│
-├── notebooks/
-│   └── data_transformation.ipynb   # Pandas cleaning & transformation
-│
-├── power_bi/
-│   └── cricket_dashboard.pbix      # Power BI dashboard file
-│
-├── scraping/
-│   └── bright_data_collectors/     # JS scraping scripts
-│
-└── README.md
-```
 
 ---
 
